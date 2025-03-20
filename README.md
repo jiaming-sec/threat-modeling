@@ -7,3 +7,6 @@ Threat modeling helps identify security threats in a structured manner. This rep
 - Templates and worksheets
 - Example threat models
 - Automation scripts
+
+## 🛠️ Getting Started
+1. Clone this repository:
