@@ -17,3 +17,8 @@ This document outlines security threats to a web application.
 | Information Disclosure | Leaking sensitive data |
 | Denial of Service | Overloading the web server |
 | Elevation of Privilege | Gaining admin access |
+
+## Mitigations
+- Implement MFA
+- Encrypt sensitive data
+- Use rate limiting on APIs
