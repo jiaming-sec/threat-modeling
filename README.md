@@ -10,3 +10,5 @@ Threat modeling helps identify security threats in a structured manner. This rep
 
 ## 🛠️ Getting Started
 1. Clone this repository:
+
+git clone https://github.com/yourusername/threat-modeling.git
