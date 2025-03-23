@@ -23,3 +23,12 @@ Threat modeling is a proactive security process that helps identify, understand,
 - **Security Engineers** – for identifying threat patterns
 - **Product Owners** – for aligning security with business goals
 - **Operations/DevOps** – for deployment and infrastructure insight
+
+## Key Concepts
+
+### Assets
+Anything valuable that needs protection, such as:
+- Customer data
+- Application code
+- User credentials
+- APIs
