@@ -54,3 +54,10 @@ Points where data or control enters the system:
 - **PASTA** – Process for Attack Simulation and Threat Analysis
 - **LINDDUN** – Focuses on privacy threats
 - **Attack Trees** – Visual representation of potential attack paths
+
+## Benefits of Threat Modeling
+
+✅ Reduces risk before deployment  
+✅ Improves architecture and code quality  
+✅ Supports compliance and regulatory goals (e.g., SOC 2, ISO 27001, HIPAA)  
+✅ Helps build a security-focused engineering culture
