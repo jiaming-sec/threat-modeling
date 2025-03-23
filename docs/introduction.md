@@ -8,3 +8,10 @@ Threat modeling is a proactive security process that helps identify, understand,
 - 🔍 **Understand attacker perspectives:** Encourages teams to analyze how their systems could be attacked.
 - 🎯 **Prioritize mitigation:** Focuses attention on the most critical and impactful threats.
 - 📈 **Improve communication:** Encourages collaboration across development, operations, and security teams.
+
+## When Should You Perform Threat Modeling?
+
+- During the design of a new system or application
+- When significant changes are made to architecture or infrastructure
+- Before system deployment or release
+- After a security incident for post-mortem analysis
