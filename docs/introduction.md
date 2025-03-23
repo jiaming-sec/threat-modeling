@@ -32,3 +32,10 @@ Anything valuable that needs protection, such as:
 - Application code
 - User credentials
 - APIs
+
+### Threat Actors
+Entities that could exploit vulnerabilities:
+- External hackers
+- Insider threats
+- Competitors
+- Automated bots
