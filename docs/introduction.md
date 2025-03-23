@@ -70,3 +70,7 @@ Points where data or control enters the system:
 4. Score threats (e.g., with DREAD)
 5. Define mitigation strategies
 6. Review regularly as the system evolves
+
+---
+
+> “Threat modeling is not just a checklist—it's a mindset.” – Security Engineering Principle
