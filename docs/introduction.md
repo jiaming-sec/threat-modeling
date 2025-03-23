@@ -61,3 +61,12 @@ Points where data or control enters the system:
 ✅ Improves architecture and code quality  
 ✅ Supports compliance and regulatory goals (e.g., SOC 2, ISO 27001, HIPAA)  
 ✅ Helps build a security-focused engineering culture
+
+## How to Get Started
+
+1. Define the system and its boundaries
+2. Identify assets and entry points
+3. Enumerate threats using a model like STRIDE
+4. Score threats (e.g., with DREAD)
+5. Define mitigation strategies
+6. Review regularly as the system evolves
