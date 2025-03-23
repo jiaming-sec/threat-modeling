@@ -46,3 +46,11 @@ Points where data or control enters the system:
 - APIs
 - Third-party integrations
 - Mobile app inputs
+
+## Common Threat Modeling Methodologies
+
+- **STRIDE** – Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege
+- **DREAD** – Damage, Reproducibility, Exploitability, Affected users, Discoverability
+- **PASTA** – Process for Attack Simulation and Threat Analysis
+- **LINDDUN** – Focuses on privacy threats
+- **Attack Trees** – Visual representation of potential attack paths
