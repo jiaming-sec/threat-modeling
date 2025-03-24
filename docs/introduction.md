@@ -39,6 +39,7 @@ Entities that could exploit vulnerabilities:
 - Insider threats
 - Competitors
 - Automated bots
+  
 
 ### Entry Points
 Points where data or control enters the system:
