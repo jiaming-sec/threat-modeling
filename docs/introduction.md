@@ -39,7 +39,13 @@ Entities that could exploit vulnerabilities:
 - Insider threats
 - Competitors
 - Automated bots
-  
+
+### Attack Vectors
+Common entry points used to exploit vulnerabilities:
+- Public APIs
+- Web interfaces
+- Mobile apps
+- External storage (e.g., misconfigured S3 buckets)
 
 ### Entry Points
 Points where data or control enters the system:
