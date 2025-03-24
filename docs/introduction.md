@@ -8,13 +8,12 @@ Threat modeling is a proactive security practice that identifies and mitigates p
 - 🗂️ **Prioritize security investments**: Focus on what matters most.
 - 🤝 **Improve team collaboration**: Align security, dev, ops, and product teams.
 - 📈 **Meet compliance goals**: Satisfy standards like ISO 27001, SOC 2, HIPAA, etc.
+  
 ## When Should You Perform Threat Modeling?
-
-- During the design of a new system or application
-- When significant changes are made to architecture or infrastructure
-- Before system deployment or release
-- After a security incident for post-mortem analysis
-
+- During the initial system architecture or design phase
+- When adding new features or integrating third-party components
+- During infrastructure changes (e.g., cloud migration)
+- Post-incident analysis or security audits
 ## Who Should Be Involved?
 
 - **Developers** – for understanding code-level concerns
