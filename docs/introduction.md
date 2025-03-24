@@ -23,14 +23,15 @@ Threat modeling is a proactive security practice that identifies and mitigates p
 - **Operations Teams:** Deployment and infrastructure details
 
 
-## Key Concepts
+## Core Concepts
 
 ### Assets
-Anything valuable that needs protection, such as:
-- Customer data
-- Application code
-- User credentials
-- APIs
+Items or components that have value and require protection, such as:
+- User credentials and identities
+- Business logic
+- APIs and endpoints
+- Personal identifiable information (PII)
+- Cloud configurations
 
 ### Threat Actors
 Entities that could exploit vulnerabilities:
