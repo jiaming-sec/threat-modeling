@@ -47,6 +47,15 @@ Common entry points used to exploit vulnerabilities:
 - Mobile apps
 - External storage (e.g., misconfigured S3 buckets)
 
+## Threat Modeling Lifecycle
+1. **Define Security Objectives** – Align threat modeling goals with business needs
+2. **Decompose the Application/System** – Understand data flows and component interactions
+3. **Identify Threats** – Use models like STRIDE or PASTA to uncover threats
+4. **Assess Risks** – Score threats using DREAD or custom metrics
+5. **Define Mitigations** – Design and implement appropriate controls
+6. **Validate and Review** – Ensure accuracy and revisit after changes
+
+
 ### Entry Points
 Points where data or control enters the system:
 - Web forms
