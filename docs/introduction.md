@@ -14,13 +14,14 @@ Threat modeling is a proactive security practice that identifies and mitigates p
 - When adding new features or integrating third-party components
 - During infrastructure changes (e.g., cloud migration)
 - Post-incident analysis or security audits
+  
 ## Who Should Be Involved?
+- **Developers:** Code-level understanding of the system
+- **Security Engineers:** Threat intelligence and vulnerability expertise
+- **System Architects:** Structural and architectural knowledge
+- **Product Managers:** Business requirements and impact
+- **Operations Teams:** Deployment and infrastructure details
 
-- **Developers** – for understanding code-level concerns
-- **Architects** – for system-level visibility
-- **Security Engineers** – for identifying threat patterns
-- **Product Owners** – for aligning security with business goals
-- **Operations/DevOps** – for deployment and infrastructure insight
 
 ## Key Concepts
 
