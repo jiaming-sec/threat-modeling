@@ -22,7 +22,6 @@ Threat modeling is a proactive security practice that identifies and mitigates p
 - **Product Managers:** Business requirements and impact
 - **Operations Teams:** Deployment and infrastructure details
 
-
 ## Core Concepts
 
 ### Assets
@@ -55,6 +54,12 @@ Common entry points used to exploit vulnerabilities:
 5. **Define Mitigations** – Design and implement appropriate controls
 6. **Validate and Review** – Ensure accuracy and revisit after changes
 
+## Methodologies Covered
+- **STRIDE**: A categorization model by Microsoft
+- **DREAD**: A scoring model to prioritize risks
+- **PASTA**: A process-oriented methodology for business-aligned analysis
+- **LINDDUN**: A privacy-focused model
+- **Attack Trees**: Visual threat representation using tree structures
 
 ### Entry Points
 Points where data or control enters the system:
