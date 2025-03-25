@@ -44,5 +44,14 @@ This document summarizes the most widely used methodologies in cybersecurity thr
 
 ## 3️⃣ PASTA (Process for Attack Simulation and Threat Analysis)
 
+**7 Stages of PASTA:**
+1. Define Business Objectives  
+2. Define the Technical Scope  
+3. Decompose the Application  
+4. Analyze Threats  
+5. Analyze Vulnerabilities and Weaknesses  
+6. Model Attacks  
+7. Conduct Risk Analysis & Remediation Planning
+
 **Focus:** Business-aligned, risk-centric modeling  
 **Use Case:** Enterprises or large systems requiring simulation-based threat evaluation
