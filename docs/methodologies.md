@@ -64,3 +64,22 @@ This document summarizes the most widely used methodologies in cybersecurity thr
 📎 Learn more in [`pasta.md`](pasta.md)
 
 ---
+
+## 4️⃣ LINDDUN (Privacy Threat Modeling)
+
+**Focus:** Privacy threat analysis  
+**Use Case:** Systems handling personal or sensitive data (e.g., GDPR compliance)
+
+| Category | Example                                 |
+|----------|-----------------------------------------|
+| **L**inkability | Linking user sessions or actions  |
+| **I**dentifiability | Identifying individuals       |
+| **N**on-repudiation | Lack of user-deniable actions |
+| **D**etectability | Visibility of system activities |
+| **D**isclosure of Information | Leaked personal data |
+| **U**nauthorized Actions | Misuse of data           |
+| **N**on-compliance | Violating legal requirements   |
+
+✅ Great for privacy by design and regulatory mapping
+
+---
