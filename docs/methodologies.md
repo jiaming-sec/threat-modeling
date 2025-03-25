@@ -41,3 +41,8 @@ This document summarizes the most widely used methodologies in cybersecurity thr
 📎 Learn more in [`dread.md`](dread.md)
 
 ---
+
+## 3️⃣ PASTA (Process for Attack Simulation and Threat Analysis)
+
+**Focus:** Business-aligned, risk-centric modeling  
+**Use Case:** Enterprises or large systems requiring simulation-based threat evaluation
