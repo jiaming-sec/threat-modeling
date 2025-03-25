@@ -109,3 +109,9 @@ This document summarizes the most widely used methodologies in cybersecurity thr
 | Attack Trees | Visualizing attack surfaces   | Great for presentation & analysis  |
 
 ---
+
+## 🔗 Resources & Next Steps
+
+- [Introduction to Threat Modeling](introduction.md)
+- [Checklist Template](../templates/threat-modeling-checklist.md)
+- [Risk Calculator](../tools/risk_calculator.py)
