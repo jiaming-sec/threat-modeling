@@ -21,3 +21,23 @@ This document summarizes the most widely used methodologies in cybersecurity thr
 | **E**levation of Privilege | Gaining unauthorized access rights     | Limited user gets admin access          |
 
 ---
+
+## 2️⃣ DREAD
+
+**Focus:** Risk scoring and prioritization  
+**Use Case:** Evaluating and ranking threats based on impact and exploitability
+
+| Category          | Question it answers                              |
+|-------------------|--------------------------------------------------|
+| **D**amage        | How severe is the damage if exploited?           |
+| **R**eproducibility | Can the threat be reproduced easily?           |
+| **E**xploitability | How easy is it to exploit the threat?           |
+| **A**ffected Users | How many users would be impacted?              |
+| **D**iscoverability | How easy is it to discover the vulnerability? |
+
+> Score each category 1–10 to prioritize threats.  
+> Total Score = D + R + E + A + D
+
+📎 Learn more in [`dread.md`](dread.md)
+
+---
