@@ -97,3 +97,15 @@ This document summarizes the most widely used methodologies in cybersecurity thr
 > Tip: Combine with STRIDE or DREAD for deeper analysis
 
 ---
+
+## 🤔 Choosing the Right Methodology
+
+| Method       | Best For                      | Strengths                          |
+|--------------|-------------------------------|------------------------------------|
+| STRIDE       | Software design               | Easy to learn, intuitive           |
+| DREAD        | Threat scoring                | Simple, effective risk comparison  |
+| PASTA        | Enterprise systems            | Business-aligned, simulation-ready |
+| LINDDUN      | Privacy-focused apps          | Privacy-centric                    |
+| Attack Trees | Visualizing attack surfaces   | Great for presentation & analysis  |
+
+---
