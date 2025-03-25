@@ -83,3 +83,17 @@ This document summarizes the most widely used methodologies in cybersecurity thr
 ✅ Great for privacy by design and regulatory mapping
 
 ---
+
+## 5️⃣ Attack Trees
+
+**Focus:** Visual modeling of potential attack paths  
+**Use Case:** Critical systems, control systems, risk visualization
+
+- Root node = Goal of the attacker (e.g., “Steal user data”)
+- Branches = Different steps/methods to reach the goal
+- Supports logical operators (AND/OR)
+- Helps in risk quantification
+
+> Tip: Combine with STRIDE or DREAD for deeper analysis
+
+---
